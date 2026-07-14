@@ -1,0 +1,1 @@
+Los archivos csv son muy pesados y GitHub no deja subirlos, descargarlos en el siguiente enlace: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
