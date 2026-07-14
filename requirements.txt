@@ -1,0 +1,9 @@
+# Manipulación de datos
+pandas>=2.0.0
+
+# Procesamiento de lenguaje natural (NLP) y Web Scraping
+beautifulsoup4>=4.12.0
+nltk>=3.8.0
+
+# Machine Learning y evaluación de modelos
+scikit-learn>=1.2.0
